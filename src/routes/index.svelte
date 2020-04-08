@@ -1,5 +1,5 @@
 <svelte:head>
-  <title>Get Wi-Fi QR code</title>
+  <title>QR-coded</title>
 </svelte:head>
 
 <h1>Root</h1>
